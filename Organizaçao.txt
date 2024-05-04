@@ -1,0 +1,32 @@
+Comercial - com
+
+Organizacional - org
+
+Open Source - opensource ou org
+
+Exemplo 01:
+
+	HyperTech
+
+com.hypertech.notification
+
+com.hypertech.notification.app
+
+com.hypertech.notification.model
+
+com.hypertech.notification.util
+
+com.hypertech.notification.service
+
+Exemplo 02:
+
+edu.lucas.tema.xyz
+
+edu.lucas.tema.logica
+
+edu.lucas.tema.controlefluxo
+
+edu.lucas.primeirasemana
+
+edu.lucas.segundasemana
+
